@@ -1,0 +1,3 @@
+import { pubsubExample } from ".";
+
+pubsubExample()
